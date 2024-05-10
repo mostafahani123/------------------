@@ -1,0 +1,41 @@
+
+
+*{
+  scrollbar-width:none;
+}
+
+
+/* navigation */
+#navbar{
+  position: fixed relative;
+  padding-left: 10vh;
+}
+.contact{
+  background-color: rgba(0, 85, 255, 0.819);
+  border-radius: 20px;
+  padding: 5px 22px 5px 22px;
+  color: white;
+  font-size: bold;
+  font-weight: 500;
+}
+/* end Handle Navigation */
+
+#text-page4 p{
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+#text-page4 h6{
+  color: blue;
+  font-size: 20px;
+  float: right;
+}#text-page3 p{
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+#text-page3 h6{
+  color: blue;
+  font-size: 20px;
+  float: right;
+}
